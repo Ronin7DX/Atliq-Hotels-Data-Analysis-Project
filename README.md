@@ -9,5 +9,5 @@ The Hotel data analysis project at Atliq Hotels consist of single phase : Data E
 3. **Data transformation:** Transforming the Data sets into desirable format with merge and elimination of unwanted data.
 4. **Insights Generation:** Visualize data to extract meaningful insights.
 
-5. ## Conclusion
+## Conclusion
 The Atliq Hotels Data Analysis project employs a structured approach, integrating data analysis to inform decision-making and drive successful outcomes to increase its revenue and can compete better with fellow competitors.
