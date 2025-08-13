@@ -1,4 +1,4 @@
-# AtliQo Hotels Data Analysis Project
+# Atliq Hotels Data Analysis Project
 
 ## Description
 This project analyzes booking data for AtliQo Hotels, a fictional hospitality chain, to derive actionable insights on revenue, occupancy, and booking platform performance. Built using Python, it employs Pandas for data manipulation, Seaborn, and Matplotlib for visualizations, such as revenue distribution by booking platform. The analysis spans properties across cities (Delhi, Mumbai, Hyderabad, Bangalore) and room classes (Standard, Elite, Premium, Presidential) from May to August 2022. Key metrics include occupancy rates, revenue realized, and cancellation trends, enabling strategic decisions like optimizing booking platforms or pricing. This project, part of the Codebasics ML course, showcases descriptive analytics skills for the hospitality industry.
@@ -10,7 +10,6 @@ This project analyzes booking data for AtliQo Hotels, a fictional hospitality ch
 - [Features](#features)
 - [Analysis Details](#analysis-details)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Installation
@@ -120,13 +119,6 @@ Contributions are welcome! To contribute:
 
 Please follow PEP 8 standards and include tests for new features.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For questions or feedback, reach out to:
-- Your Name: your.email@example.com
-- GitHub: [your-username](https://github.com/your-username)
-- Project Link: [https://github.com/your-username/atliqo-hotels-data-analysis](https://github.com/your-username/atliqo-hotels-data-analysis)
-
-*Project from Codebasics ML Course. All rights reserved: Codebasics.io*
+- Mail ID: kavineshdhanush@gmail.com
